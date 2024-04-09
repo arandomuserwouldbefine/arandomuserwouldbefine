@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhh67&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhh67" /> </p>
 
-- 🌱 I’m currently learning **Programming,Networking,Web Hacking**
+- 🌱 I’m currently learning **Programming, Networking, Web Hacking**
 
 - 📝 I regularly write blog on [https://medium.com/@ayusshh](https://medium.com/@ayusshh)
 
