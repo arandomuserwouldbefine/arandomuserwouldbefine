@@ -1,6 +1,16 @@
 # 💫 About Me:
-<br><h1 align="center">Hi 👋, I'm Ayush</h1><br><h3 align="center">A Web Security Enthusiast.</h3><br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhh67&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhh67" /> </p><br><br>- 🌱 I’m currently learning **Programming, Networking, Web Hacking**<br><br>- 📝 I regularly write blog on [https://medium.com/@ayusshh](https://medium.com/@ayusshh)<br><br>- 💬 Ask me about **anything?**<br><br>- 📫  How to reach me **s.aayush3161@gmail.com**<br><br>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h3 align="center">A Web Security Enthusiast.</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayushhh67&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhh67" />
+</p>
+
+- 🌱 I’m currently learning **Programming, Networking, Web Hacking**
+- 📝 I regularly write blog on [https://medium.com/@ayusshh](https://medium.com/@ayusshh)
+- 💬 Ask me about **anything?**
+- 📫 How to reach me **s.aayush3161@gmail.com**
+- 🕹️ I regularly play capture the flag events with my team [Bits & Pieces](https://ctftime.org/team/178228)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushh_shah/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayusshh) 
 
