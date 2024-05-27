@@ -10,7 +10,7 @@
 - 📝 I regularly write blog on [https://medium.com/@ayusshh](https://medium.com/@ayusshh)
 - 💬 Ask me about **anything?**
 - 📫 How to reach me **s.aayush3161@gmail.com**
-- 🕹️ I regularly play capture the flag events with my team [Bits & Pieces](https://ctftime.org/team/178228)
+- 🕹️ I regularly play Capture The Flag (CTFs) events with my team [Bits & Pieces](https://ctftime.org/team/178228)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushh_shah/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayusshh) 
 
